@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<h4>About Me</h4>
-
-<p>My name is Joe and I'm Full Stack Web Developer</p>
-
 <h4>Technical Skills</h4>
 
  - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
