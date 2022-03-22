@@ -1,4 +1,4 @@
-### Hi there 👋
+### Joe Stanton 
 
 <h4>Technical Skills</h4>
 
