@@ -1,5 +1,7 @@
 ### Joe Stanton 
 
+#### Full Stack Web Developer From Pennsylvania.
+
 <h4>Technical Skills</h4>
 
  - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
