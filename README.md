@@ -1,6 +1,8 @@
 ### Joe Stanton 
 
-#### Full Stack Web Developer From Pennsylvania.
+<p>👋 Hello! My name is Joe I am a Full Stack Web Developer. 
+
+I have a passion for writing software and I am looking forward to expanding the breadth of my technical knowledge so that I can use my skills to help people in whatever role I find myself in!</p>
 
 <h4>Technical Skills</h4>
 
